@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kurs-React-podstawy/static/css/main.3c6eda33.chunk.css",
+    "main.js": "/Kurs-React-podstawy/static/js/main.12769c58.chunk.js",
+    "main.js.map": "/Kurs-React-podstawy/static/js/main.12769c58.chunk.js.map",
+    "runtime-main.js": "/Kurs-React-podstawy/static/js/runtime-main.04d208a8.js",
+    "runtime-main.js.map": "/Kurs-React-podstawy/static/js/runtime-main.04d208a8.js.map",
+    "static/js/2.76eb46c7.chunk.js": "/Kurs-React-podstawy/static/js/2.76eb46c7.chunk.js",
+    "static/js/2.76eb46c7.chunk.js.map": "/Kurs-React-podstawy/static/js/2.76eb46c7.chunk.js.map",
+    "index.html": "/Kurs-React-podstawy/index.html",
+    "precache-manifest.f71ec8dfce0ad59a64a98e4468d559b6.js": "/Kurs-React-podstawy/precache-manifest.f71ec8dfce0ad59a64a98e4468d559b6.js",
+    "service-worker.js": "/Kurs-React-podstawy/service-worker.js",
+    "static/css/main.3c6eda33.chunk.css.map": "/Kurs-React-podstawy/static/css/main.3c6eda33.chunk.css.map",
+    "static/js/2.76eb46c7.chunk.js.LICENSE.txt": "/Kurs-React-podstawy/static/js/2.76eb46c7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Kurs-React-podstawy/static/media/logo.a87d0f35.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04d208a8.js",
+    "static/js/2.76eb46c7.chunk.js",
+    "static/css/main.3c6eda33.chunk.css",
+    "static/js/main.12769c58.chunk.js"
+  ]
+}
